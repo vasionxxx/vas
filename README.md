@@ -11,4 +11,4 @@ https://hub.docker.com/repository/docker/vasionx/nginx-custom/general
 
 контейнер опубликован на порту хост системы 127.0.0.1:8080
 
-![image alt](https://github.com/vasionxxx/vas/main/21.png)
+![image alt](https://github.com/vasionxxx/vas/blob/main/21.png)

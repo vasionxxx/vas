@@ -1,3 +1,5 @@
+# Оркестрация группой Docker контейнеров на примере Docker Compose. Бодарев В.В.
+
 # Задача 1
 https://hub.docker.com/repository/docker/vasionx/nginx-custom/general
 
